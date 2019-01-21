@@ -1,0 +1,3 @@
+C:/Users/Vulture & Hippie/Desktop/sci_vis/project7/CMakeFiles/proj7.dir
+C:/Users/Vulture & Hippie/Desktop/sci_vis/project7/CMakeFiles/ALL_BUILD.dir
+C:/Users/Vulture & Hippie/Desktop/sci_vis/project7/CMakeFiles/ZERO_CHECK.dir
