@@ -3,4 +3,4 @@
 
 Author: Jacob Brown
 
-Description: TK
+Description: From the data file and the 256 triangle cases determined in project 6, produces a 3D image using isosurfaces.
